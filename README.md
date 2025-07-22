@@ -6,6 +6,8 @@ A mesma analise é feita de 3 formas diferentes
 
 todas as etapas de extração, transformação e apresentação dos dados feita no power BI
 
+[![](/dashboard/analise-BI.jpg)](/)
+
 ## Python
 
 todas as etapas de extração, transformação e tratamento dos dados feito com pandas, apresentação com matplotlib
